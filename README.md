@@ -1,6 +1,6 @@
-# Figma Demo - MThreads Landing Page
+# DeepSeek-V4 Demo @ KCS EverGreen - MThreads KCS Landing Page
 
-A modern landing page implementation based on a Figma design, built with React and Tailwind CSS.
+A modern landing page implementation based on design, built with React and Tailwind CSS.
 
 ## Features
 
@@ -55,7 +55,7 @@ npm run preview
 ## Project Structure
 
 ```
-figma-demo/
+EverGreen/
 ├── src/
 │   ├── App.jsx          # Main component
 │   ├── main.jsx         # Entry point
